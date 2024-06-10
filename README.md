@@ -3,7 +3,7 @@ This code implements the Asset Administration Shell (AAS) of a 5G User Equipment
 
 Jorge Gómez-Jerez, Jorge Cañete-Martín, M.Carmen Lucas-Estañ, Javier Gozalvez, “Design and Implementation of a 5G User Equipment Asset Administration Shell for Smart Manufacturing”, submitted to IEEE International Conference on Emerging Technologies and Factory Automation (ETFA 2024), 10th-13th September 2024, Padova, Italy.
 
-The 5G UE AAS has been defined and implemented at the UWICORE laboratory of the Universidad Miguel Hernandez de Elche (Spain). 
+The 5G UE AAS has been defined and implemented at the UWICORE laboratory of the Universidad Miguel Hernandez de Elche (Spain).
 
 In order to comply with our sponsor guidelines, we would appreciate if any publication using this code references the above-mentioned publication.
 
