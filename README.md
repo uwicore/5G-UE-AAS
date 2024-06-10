@@ -7,7 +7,7 @@ The 5G UE AAS has been defined and implemented at the UWICORE laboratory of the 
 
 In order to comply with our sponsor guidelines, we would appreciate if any publication using this code references the above-mentioned publication.
 
-# Abstract
+## Abstract
 5G is a fundamental technology for the full digitalization of smart manufacturing. The digital integration of 5G and Industry 4.0 systems and applications requires the availability of Asset Administration Shells (AAS) for 5G. This study presents the design and implementation of the first full 5G UE (User Equipment) AAS that is openly released to the community. The 5G UE AAS has been designed following the 5G-ACIA guidelines as well as the Plattform Industrie 4.0 and 3GPP standards. The AAS has been defined to provide and expose the data and capabilities of 5G to industrial applications and facilitate the integration of 5G with Industry 4.0 systems.
 
 ## Features
