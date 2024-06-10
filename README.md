@@ -23,6 +23,7 @@ The code from this repository maintains the folder structure of basyx python sdk
 | ExampleUse.py   | This script imports the UEs objects and provides examples of use of the AAS defined.
 |
 | UE_5G_AAS.aasx  | 5G UE AAS model in AASX format created in AASX Package Explorer. 
+|
 
 ## Dependencies
 The 5G UE AAS Python requires the following Python packages to be installed for production usage. These dependencies should be installed with pip:
