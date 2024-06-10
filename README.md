@@ -21,9 +21,8 @@ The code from this repository maintains the folder structure of basyx python sdk
 | AAS5GUEsubmodels.py                     | This script defines the different classes created for the 5G UE AAS programming like the UE5G class. These classes inherit the Basyx python sdk classes.              |
 | UE_5G_AAS.py   | This script reads the 5G_UE_AAS.aasx file created with AAS Package Explorer and generates the 5G UE AAS python object. It generates as many UEs as defined in the AASX file.                                         
 | ExampleUse.py   | This script imports the UEs objects and provides examples of use of the AAS defined.
-|
 | UE_5G_AAS.aasx  | 5G UE AAS model in AASX format created in AASX Package Explorer. 
-|
+
 
 ## Dependencies
 The 5G UE AAS Python requires the following Python packages to be installed for production usage. These dependencies should be installed with pip:
